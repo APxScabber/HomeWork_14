@@ -16,6 +16,8 @@ protocol WeatherLoaderDelegate {
 
 class WeatherLoader {
     
+    // add some code
+    
     var delegate: WeatherLoaderDelegate?
     
     func loadWeatherAlamofire() {
