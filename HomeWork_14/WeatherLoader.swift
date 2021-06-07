@@ -34,6 +34,7 @@ class WeatherLoader {
     }
     
     // add some code 2
+    //фв ыщьу сщву 3
     
     func forecastLoadWeatherAlamofire() {
         let url = URL(string: "http://api.openweathermap.org/data/2.5/forecast?q=Moscow&appid=2730e6546155fce8760a5e6b14fa3c7e")!
